@@ -35,7 +35,7 @@ $env:DEEPSEEK_API_KEY="your-api-key"
 
 ## Quick setup
 1. Clone repo:
-   `git clone <repo-url>`
+   `git clone git@github.com:efmanu/proactive-ai-agent-demo.git`
 2. Create and activate a virtual environment (recommended) and install dependencies:
    `uv sync`
 
